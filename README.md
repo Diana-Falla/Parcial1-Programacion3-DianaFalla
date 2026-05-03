@@ -23,3 +23,7 @@ Instrucciones para ejecutarlo :
    pnpm dev
 5. Abrir el navegador en la URL indicada (generalmente http://localhost:5173).
 6. Navegar entre las páginas (Home y Carrito) para utilizar las funcionalidades.
+
+-----------------------------
+
+LINK VIDEO YOUTUBE: https://youtu.be/EHE7yVxLcb8
